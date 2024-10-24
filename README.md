@@ -77,3 +77,7 @@ Run this command on the attack machine to set up a listener: nc -nvlp 4444
 ## Customization
 
 You can easily extend this tool by adding more reverse shell options to the `LinuxReverseShellGenerator` and `WindowsReverseShellGenerator` classes in the `reverse_shells.py` file.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
