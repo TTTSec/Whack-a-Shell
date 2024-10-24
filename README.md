@@ -1,5 +1,3 @@
-Here is a GitHub-ready **README.md** file for your reverse shell generator project. You can copy and paste it directly into your GitHub repository:
-
 ```md
 # Reverse Shell Generator
 
