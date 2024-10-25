@@ -1,14 +1,14 @@
-```md
-# Reverse Shell Generator
+
+## Reverse Shell Generator
 
 A Python tool for dynamically generating reverse shell commands for both Windows and Linux systems. This tool supports multiple shell types and provides easy-to-use prompts with built-in IP address and port validation.
 
 ## Features
 
-- **Cross-platform support**: Generates reverse shell commands for both Windows and Linux systems.
-- **Multiple reverse shell types**: Includes Bash, Python, Netcat for Linux, and PowerShell, Netcat for Windows.
-- **User-friendly interface**: Simple prompts for user input and shell selection.
-- **Error handling**: Validates IP address and port input, handling incorrect entries gracefully.
+- Cross-platform support**: Generates reverse shell commands for both Windows and Linux systems.
+- Multiple reverse shell types**: Includes Bash, Python, Netcat for Linux, and PowerShell, Netcat for Windows.
+- User-friendly interface**: Simple prompts for user input and shell selection.
+- Error handling**: Validates IP address and port input, handling incorrect entries gracefully.
 
 ## Requirements
 
