@@ -130,7 +130,6 @@ def reverse_shell_choice(os):
 
     # Dynamically call the selected shell method
     selected_method = shell_methods[choice]
-    print(selected_method)  # Display the method name
     return getattr(shell, selected_method)(), PORT  # Call and return the method and the port
 
 # Main entry point of the program
